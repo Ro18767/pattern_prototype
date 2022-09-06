@@ -99,7 +99,7 @@ draw sphere with name: Big sphere
 draw box with name: Big sphere clone
 ```
 
-![ClassDiagram](https://user-images.githubusercontent.com/108687865/188582861-55e406e7-c38b-4cdc-a475-62d8c106705d.jpg)
+![ClassDiagram](https://user-images.githubusercontent.com/108687865/188584146-dd8ec2a3-d48b-4869-9e9e-e59acf1d7f31.jpg)
 
 ## список типов
 + базовый тип Object3D
