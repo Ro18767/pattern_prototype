@@ -102,9 +102,9 @@ draw box with name: Big sphere clone
 ![ClassDiagram](https://user-images.githubusercontent.com/108687865/188582861-55e406e7-c38b-4cdc-a475-62d8c106705d.jpg)
 
 ## список типов
-базовый тип Object3D
-наследник Box
-наследник Sphere
++ базовый тип Object3D
++ наследник Box
++ наследник Sphere
 
 ## Аналогия
 Приходит человек в бар и видит другого с какимто напитком.
